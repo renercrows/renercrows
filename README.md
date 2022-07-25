@@ -6,7 +6,7 @@ I'm a professional Web Developer with 1 year of experience, been working on diff
 
 Skills: HTML / CSS / JavaScript / Bootstrap / Webpack / WordPress
 
-![Coding Languages](Graphic.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Social medias:
 
