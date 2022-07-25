@@ -3,9 +3,12 @@
 
 I'm a professional Web Developer with 1 year of experience, been working on different variety of projects. My passion are webpages and I love is web development
 
-Skills: HTML / CSS / JavaScript / Bootstrap / React / Ruby / Rails
 
-### Social medias are:
+Skills: HTML / CSS / JavaScript / Bootstrap / Webpack / WordPress
+
+![Test Image 1](Graphic.png)
+
+### Social medias:
 
 ## Twitter
 
