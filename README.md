@@ -6,7 +6,7 @@ I'm a professional Web Developer with 1 year of experience, been working on diff
 
 Skills: HTML / CSS / JavaScript / Bootstrap / Webpack / WordPress
 
-![Test Image 1](Graphic.png)
+![Coding Languages](Graphic.png)
 
 ### Social medias:
 
