@@ -1,7 +1,7 @@
 ### Hi there 👋, Maximiliano Ungredda
 #### Web Developer
 
-I'm a professional Web Developer with 1 year of experience, been working on different variety of projects. My passion are webpages and I love is web development
+I'm a professional Web Developer with 1 year of experience, been working on different variety of projects. My passion and love is web development.
 
 - I'm a front-end and a web developer.
 - I have passion working with technology.
