@@ -1,16 +1,11 @@
 ### Hi there 👋, I'm Maximiliano Ungredda
-#### Web Developer
+#### Software Developer
 
 ### I'm currently available for hire or open to new job opportunities.
 
-I'm a professional Web Developer with 1 year of experience, been working on different variety of projects. My passion and love is web development.
+I am a Full-Stack software developer passionate about making unique code that creates solutions. Connecting client and server is my daily routine, as I'm currently working on multiple projects related to front-end and back-end. One of the most important aspects of the process is connecting the frontend with the backend through an API, something that I do in most of my projects. On my daily, not only work with coding, also need to work daily with others, something that brings me important skills such as leadership, effective communication, problem-solving, time management, etc. I am a fast learner that can keep up with the most demanding tasks, and also great at adapting to other people's work flows. I am always up for a challenge, solve difficulties, and get the best result possible.  
 
-- I'm a front-end and a web developer.
-- I have passion working with technology.
-- I have experience doing WordPress pages, one of the most popular ways of developing webpage using an open code source.
-- I'm currently upgrading my skills by doing the Microverse bootscamp where I get better at using tools like Javascript, HTML CSS, Webpack, SCSS, bootstrap and more.
-
-Skills: HTML / CSS / JavaScript / Bootstrap / Webpack / WordPress
+Skills: HTML / CSS / JavaScript / Bootstrap / Webpack / WordPress / Ruby / Ruby on Rails / React / Redux / API / Testing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
