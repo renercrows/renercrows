@@ -1,4 +1,7 @@
 ### Hi there 👋, I'm Maximiliano Ungredda
+
+![68747470733a2f2f7777772e7361666572736f63696574792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f4769662d616e696d6174696f6e2d68656c6c6f2e676966](https://user-images.githubusercontent.com/98361289/217668554-b2d801ed-4ccf-453a-baf7-9b2500640f18.gif)
+
 #### Software Developer
 
 ### I'm currently available for hire or open to new job opportunities.
@@ -27,9 +30,9 @@ I am a Full-Stack software developer passionate about making unique code that cr
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renercrows&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renercrows&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renercrows&show_icons=true&theme=transparent)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=renercrows&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### Social medias:
 
