@@ -5,7 +5,7 @@
 
 ### I'm currently available for hire or open to new job opportunities.
 
-I am a Full-Stack software developer passionate about making unique code that creates solutions. Connecting client and server is my daily routine, as I'm currently working on multiple projects related to front-end and back-end. One of the most important aspects of the process is connecting the frontend with the backend through an API, something that I do in most of my projects. Aside form my technical/hard-skills I also use soft-skills, some of those involve leadership, effective communication, problem-solving, time management, etc. I am a fast learner that can keep up with the most demanding tasks, and also great at adapting to other people's work flows. I am always up for a challenge to solve difficulties and get the best result possible.  
+I am a Full-Stack software developer passionate about making unique code that creates solutions. Connecting client and server is my daily routine, as I'm currently working on multiple projects related to front-end and back-end. One of the most important aspects of the process is connecting the frontend with the backend through an API, something that I do in most of my projects. Aside form my technical/hard-skills I also use soft-skills, some of those involve leadership, effective communication, problem-solving, time management, etc. I am a fast learner that can keep up with the most demanding tasks, and also great at adapting to other people's work flows. up for a challenge and ready to solve difficulties to achieve the best result possible.  
 
 #### Skills: 
 
